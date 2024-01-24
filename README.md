@@ -2,17 +2,9 @@
 👨‍⚖️UNITY É UMA ENGINE DE DESENVOLVIMENTO DE JOGOS E APLICATIVOS MULTIPLATAFORMA. É AMPLAMENTE UTILIZADA NA INDÚSTRIA DE JOGOS PARA CRIAR JOGOS INTERATIVOS EM 2D E 3D. ALÉM DISSO, TAMBÉM PODE SER USADA PARA DESENVOLVER APLICATIVOS PARA DISPOSITIVOS MÓVEIS, REALIDADE VIRTUAL E REALIDADE AUMENTADA.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=Unity)
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://docs.unity.com/) 
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-C-SHARP)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL4nQezgDb6K402DAybKB9ZR5NfWGtH445&si=4DJLFMuwh6gl3R3h)
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmOXKgyGaKd1MKhA7Ny_HveUuB5g4zuQ-RtQ&usqp=CAU" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 A Unity é uma poderosa plataforma de desenvolvimento de jogos e aplicativos 3D/2D. Vou citar alguns conceitos básicos para que você possa se familiarizar com a plataforma:
