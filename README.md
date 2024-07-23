@@ -56,10 +56,10 @@ Atualmente, a Unity é uma das principais escolhas para desenvolvedores de jogos
 6. **Curva de Aprendizado para Recursos Avançados**: Embora a Unity seja amigável para iniciantes, o uso eficaz de recursos avançados, como shaders personalizados e física complexa, pode ser desafiador e requer mais experiência.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "EDUARDO BONFANDINI"](https://youtube.com/playlist?list=PL4nQezgDb6K402DAybKB9ZR5NfWGtH445&si=4DJLFMuwh6gl3R3h)
+- [CURSO CRIADO PELO "ATTEKITA DEV"](https://youtube.com/playlist?list=PLprgbdnzrDkH4AP7Qv-xKMvuGCMT54y8O&si=angCsPrg5vPJKCk4)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://docs.unity.com/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-C-SHARP)
-- [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:UNITY)
 
